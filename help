@@ -1,0 +1,27 @@
+
+                *********************************************************************************************
+		*      	*	*   	*   *****   *	     ****     *****	 *	  *   *****	    *  
+		*	 *     * *     *    *	    *	    *        *     *	 **	 **   *		    *  
+		*	  *   *	  *   *	    *****   *	   *        *	    *    * *	* *   *****         *
+		*	   * *	   * *	    *	    *	    *	     *     *	 *  * *   *   *             *
+		*	    *	    *	    *****   ****     ****     *****	 *   *	  *   *****         *
+		*								        	            *
+		*  *In addition to bash default commands we have : 				            *
+		*    	 	   								            *  
+		*    1 - calc	    ==>	simple calculator (+,-,*,/) : Example: calc 5 * 6	            *
+		*    2 - environ    ==> view enviroment variables , No arguments	 	            *
+		*    3 - pause	    ==> Pauses the bash till a key is pressed.				    *
+		*						             		               	    *
+		*                                                        				    *
+		*											    *
+		*    NOTES:                                                                                 *
+		*     Please keep one space between each argument of the calc commmand :)                   *  
+		*											    *
+		*     TO view othe bash commands manual type : man <command>				    *
+		*     											    *
+		*     To view this page again type help							    *
+		*											    *
+		*											    *
+		*											    *
+                *********************************************************************************************         		
+														
