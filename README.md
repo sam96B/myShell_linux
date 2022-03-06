@@ -36,9 +36,8 @@ replaced by outputfile.
 
 1. clone the repo
 2. cd into the repo
-3. run the command `gcc shell.c -o shell`
-4. run the command `./shell`
-5. enjoy
+3. run the command `make`
+4. enjoy
   
 ## Image from the starting point. 
 ![alt text](https://github.com/sam96B/myShell_linux/blob/main/Screenshot%20from%202022-03-06%2017-31-04.png?raw=true)
