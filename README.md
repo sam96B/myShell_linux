@@ -40,5 +40,5 @@ replaced by outputfile.
 4. run the command `./shell`
 5. enjoy
   
-## image of the starting point. 
+## Image from the starting point. 
 ![alt text](https://github.com/sam96B/myShell_linux/blob/main/Screenshot%20from%202022-03-06%2017-31-04.png?raw=true)
